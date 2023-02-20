@@ -1,3 +1,9 @@
+//Rahul Iyer
+//hash table
+//adds students and creates a new hash table every time there are more than 3 nodes in it
+//feb 19 2023
+
+
 #include <iostream>
 #include <cstring>
 #include "student.h"
